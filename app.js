@@ -35,21 +35,21 @@ var shopItems = [
         name: "Kulaklık 🎧",
         price: 250,
         description: "Odaklanmanı artırmak için tasarlanmış premium kulaklık.",
-        image: "images/headphones.jpeg"
+        image: "headphones.jpeg"
     },
     {
         id: "game-pass",
         name: "Mini Oyun 🎮",
         price: 100,
         description: "Çalışma molalarında eğlenceli bir deneyim sunar.",
-        image: "images/game.webp"
+        image: "game.webp"
     },
     {
         id: "smart-watch",
         name: "Akıllı Saat ⌚",
         price: 60,
         description: "Zaman yönetimini temsil eden şık bir aksesuar.",
-        image: "images/smart-watch.jpeg"
+        image: "smart-watch.jpeg"
     }
 ];
 
